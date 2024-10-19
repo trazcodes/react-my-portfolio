@@ -57,7 +57,7 @@ const container = (delay) => ({
       transition={{ duration: 0.3 }}
                         className='pb-16 text-6xl font-thin tracking-tight
                          lg:mt-16 lg:text-8xl'>
-                          Kushal Himmatsinghka
+                          Kushal
                         </motion.h1>
                         <motion.span whileHover={{ scale: [null, 1, 1.05] }}
       transition={{ duration: 0.3 }}
